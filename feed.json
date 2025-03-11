@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "hexixark.com",
+    "description": "",
+    "home_page_url": "https://hexixark.com",
+    "feed_url": "https://hexixark.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "coslink"
+    },
+    "items": [
+    ]
+}
