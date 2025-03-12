@@ -82,22 +82,22 @@
     {
         "path": "/authors/coslink/index.html",
         "type": "file",
-        "md5": "555159d7cb617697ee6efca8a8ea8635"
+        "md5": "e558af8cc4233957cd463f015cb4634e"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "e83c42242f31cf15846e65be2ff6701f"
+        "md5": "963cafb17d6dfc23cfb840f884dd955b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "afe66e5e2d7aba315e9c2c953372e04f"
+        "md5": "ae17f423ec00db682eaef24a2e29e647"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f6332d2ec424628bf57b0d7fd74ab61e"
+        "md5": "78f23cd80a379c068a565881c778a161"
     },
     {
         "path": "robots.txt",
@@ -107,7 +107,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "5fc527879f175ff69aaa947dce580a0c"
+        "md5": "321d5c02090403b5b48b72ff925d3c57"
     },
     {
         "path": "sitemap.xsl",
@@ -128,5 +128,10 @@
         "path": "website-of-cc.html",
         "type": "file",
         "md5": "1b81a28166d697832a316ecca8278e61"
+    },
+    {
+        "path": "website.html",
+        "type": "file",
+        "md5": "bc6c2c72717c9668296438ae26b783ee"
     }
 ]
