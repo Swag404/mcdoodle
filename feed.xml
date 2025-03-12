@@ -3,10 +3,59 @@
     <title>hexixark.com</title>
     <link href="https://hexixark.com/feed.xml" rel="self" />
     <link href="https://hexixark.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-03-12T17:14:09+00:00</updated>
     <author>
         <name>coslink</name>
     </author>
     <id>https://hexixark.com</id>
 
+    <entry>
+        <title>WEBSITE</title>
+        <author>
+            <name>coslink</name>
+        </author>
+        <link href="https://hexixark.com/website.html"/>
+        <id>https://hexixark.com/website.html</id>
+
+        <updated>2025-03-12T17:14:09+00:00</updated>
+            <summary>
+                <![CDATA[
+                    
+  <p>
+    Heya welcome this is the first version of my web
+  </p>
+
+  <p>
+    
+  </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Heya welcome this is the first version of my web
+  </p>
+
+  <p>
+    
+  </p>
+
+
+    <figure class="blockquote">
+      <blockquote>if i man then im man<br></blockquote>
+      <figcaption>man</figcaption>
+    </figure>
+
+  <p>
+    full update at 6:40 gmt today
+  </p>
+
+  <ul>
+    <li>cat daily imgs</li><li>chat option</li><li>game</li><li>more gui</li><li>projects of mine</li><li>sandbox</li><li>banana</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
 </feed>
